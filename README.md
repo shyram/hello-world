@@ -1,2 +1,2 @@
 # hello-world
-git 및 github 공뷰용
+git 및 github 공부용
